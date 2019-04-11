@@ -58,6 +58,6 @@
     </dependencies>
 
     <modules>
-        <module>../task_100</module>
+        <module>../task_001</module>
     </modules>
 </project>
