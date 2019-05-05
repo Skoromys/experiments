@@ -59,5 +59,6 @@
 
     <modules>
         <module>../task_001</module>
+        <module>../task_002</module>
     </modules>
 </project>
